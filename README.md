@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of khoipro/flarum-ext-vietnamese.** Not for installation: use [Packagist](https://packagist.org/packages/khoipro/flarum-ext-vietnamese) or the [upstream repository](https://github.com/khoipro/flarum-ext-vietnamese).
 
-**0** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**5** versions archived · Latest: [`v0.1.0-beta.7`](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.7` | 2017-07-22 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/khoipro-flarum-ext-vietnamese/tree/archive/v0.1.0-beta.7) |
 
 Catalog entry: [packages/khoipro-flarum-ext-vietnamese.json](https://github.com/flarchive/archive-index/blob/main/packages/khoipro-flarum-ext-vietnamese.json)
 
